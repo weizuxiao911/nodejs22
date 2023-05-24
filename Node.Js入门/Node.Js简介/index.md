@@ -1,5 +1,7 @@
 ## 简介
 
+[Node.js官网地址](https://nodejs.org/en '_blank')
+
 Node.js 是一个开源和跨平台的 JavaScript 运行时环境。它是几乎任何类型项目的流行工具!
 
 Node.js 在浏览器之外运行 V8 JavaScript 引擎，它是 Google Chrome 的核心。这使得 Node.js 非常高效.
