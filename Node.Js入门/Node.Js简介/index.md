@@ -1,6 +1,6 @@
 ## 简介
 
-[Node.js官网地址](https://nodejs.org/en '_blank')
+[Node.js官网地址](https://nodejs.org/en)
 
 Node.js 是一个开源和跨平台的 JavaScript 运行时环境。它是几乎任何类型项目的流行工具!
 
